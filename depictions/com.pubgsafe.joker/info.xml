@@ -1,0 +1,24 @@
+<packageInfo>
+    <bundleId>com.pubgsafe.joker</bundleId>
+    <name>TheJoker Safe</name>
+    <version>10</version>
+    <descriptions>
+        <description>
+            PUBG Kr, Vietnam, Global Full Version
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>15.0</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V10</changeVersion>
+            <changeDescription>Security Improvement</changeDescription>
+            <changeDescription>Fixing Bugs</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
